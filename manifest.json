@@ -1,0 +1,30 @@
+{
+  "name": "campaign-report-analyzer",
+  "version": "1.1.0",
+  "description": "Analyzes Google Ads campaign reports to identify performance issues, budget opportunities, and generate executive summaries with tiered recommendations. Groups campaigns by service/product line for holistic analysis across Search, Display, PMax, and Video channels.",
+  "triggers": [
+    "campaign report",
+    "campaign performance",
+    "campaign analysis",
+    "Google Ads campaign",
+    "campaign review",
+    "campaign CSV",
+    "analyze campaigns",
+    "campaign health",
+    "campaign audit",
+    "service performance",
+    "channel performance",
+    "PPC report",
+    "ads report",
+    "monthly campaign review"
+  ],
+  "author": "Epic Web Studios",
+  "industries": [
+    "financial-services",
+    "home-services",
+    "legal",
+    "healthcare",
+    "ecommerce",
+    "b2b-saas"
+  ]
+}
