@@ -1,3 +1,13 @@
+---
+name: campaign-report-analyzer
+description: |
+  Analyze Google Ads campaign reports to identify performance issues, budget opportunities, and generate executive summaries with tiered optimization recommendations.
+  Use this skill when: (1) Analyzing campaign performance CSV exports from Google Ads, (2) Identifying underperforming campaigns or services,
+  (3) Generating tiered optimization recommendations, (4) Grouping campaigns by service/product line for holistic analysis,
+  (5) Detecting red flags like zero conversions with spend or significant MoM declines.
+  Triggers on: Google Ads campaign data, campaign performance analysis, budget optimization, MoM analysis, service-level reporting.
+---
+
 # Campaign Report Analyzer
 
 Analyze Google Ads campaign reports to identify performance issues, budget opportunities, and generate executive summaries with tiered optimization recommendations. Supports grouping campaigns by service/product line for holistic analysis.
